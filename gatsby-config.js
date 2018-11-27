@@ -3,7 +3,7 @@ module.exports = {
     title: 'Spencer Corwin\'s Blog',
     author: 'Spencer Corwin',
     description: 'A blog by Spencer Corwin',
-    siteUrl: 'https://gatsbyjs.github.io/gatsby-starter-blog/',
+    siteUrl: 'https://spencercorwin.com',
   },
   pathPrefix: '/blog',
   plugins: [
@@ -54,7 +54,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/assets/gatsby-icon.png`,
+        icon: `src/assets/icon.png`,
       },
     },
     `gatsby-plugin-offline`,
