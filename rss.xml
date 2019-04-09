@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Spencer Corwin's Blog]]></title><description><![CDATA[A blog by Spencer Corwin]]></description><link>https://spencercorwin.com</link><generator>RSS for Node</generator><lastBuildDate>Tue, 09 Apr 2019 18:03:10 GMT</lastBuildDate><item><title><![CDATA[How to Create a Mind]]></title><description><![CDATA[“A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.” — Alan Turing In my first…]]></description><link>https://spencercorwin.com/6/how-to-create-a-mind/</link><guid isPermaLink="false">https://spencercorwin.com/6/how-to-create-a-mind/</guid><pubDate>Fri, 05 Apr 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;“A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.” — Alan Turing&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/eb04547d90821e01a6168c97b43d90a7/b805f/book-cover.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 263px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 152.0912547528517%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAeABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAIBAwQF/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAAB7aNSaiQEZSwgP//EABwQAAICAgMAAAAAAAAAAAAAAAABAhEQEhMgIf/aAAgBAQABBQKU1E5Beqdi2voynj//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAaEAACAgMAAAAAAAAAAAAAAAAQEQAgITFB/9oACAEBAAY/AjhOcVtj/8QAHhAAAgICAgMAAAAAAAAAAAAAAAERYRAxIUFRoeH/2gAIAQEAAT8h2EiXtWNA/Jxe4j4AVDoUz3hG9OC7j//aAAwDAQACAAMAAAAQs8QM/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPxAf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPxAf/8QAHxABAAICAgIDAAAAAAAAAAAAAQARMVEhQRDRYZGh/9oACAEBAAE/EFEKqsG79Tv4pQG2ufUEEQF05gBWNrrKYwRbG3ga+NXiAAAAYCXraLh/XhQVp0dwtt+w9QxzP//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;How to Create a Mind book cover&quot;
+        title=&quot;&quot;
+        src=&quot;/blog/static/eb04547d90821e01a6168c97b43d90a7/b805f/book-cover.jpeg&quot;
+        srcset=&quot;/blog/static/eb04547d90821e01a6168c97b43d90a7/29a00/book-cover.jpeg 148w,
+/blog/static/eb04547d90821e01a6168c97b43d90a7/b805f/book-cover.jpeg 263w&quot;
+        sizes=&quot;(max-width: 263px) 100vw, 263px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;In my first blog post I discussed why I decided to quit my job as a banker and become a software engineer. The primary reason was a shift in my thinking that was caused by Ray Kurzweil’s latest book &lt;em&gt;How to Create a Mind&lt;/em&gt;, which was published in 2012. I read this book in mid-2017 and it completed changed the way I saw the future. Before reading this book I was under the mistaken impression that the information technology ship had sailed. I thought it was essentially too late to get into the world of computers because by the time I would have “caught up” with the rest of the industry in terms of knowledge and skill it would be too late for me to make any real impact, so therefore there was little point in making such a transition. Computers were cool and all, but it was too late. I might as well try to find another way to make an impact. Reading &lt;em&gt;How to Create a Mind&lt;/em&gt; shattered that way of thinking for me and opened my eyes to the infinite potential that still exists in information-based technologies (ie. computers and software). In this book Kurzweil specifically tackles the human brain, how it works, how we will succeed in reverse-engineering it, and how our understanding of it is enabling us to create artificial intelligence. As AI has has begun to enter the mainstream it appears that we are on the verge of an explosion of applications that utilize AI for awesome new applications. It is this new “revolution” that caught my attention and inspired me to enter the field of software.&lt;/p&gt;
+&lt;h2&gt;Ray Kurzweil and the Law of Accelerating Returns&lt;/h2&gt;
+&lt;p&gt;Whenever I discuss my story with anyone I have to first ask if they’ve heard of Kurzweil and his ideas, because he is somewhat polarizing figure to anyone who is familiar with his work. He is famous for his many predictions of when certain technological benchmarks will be met. Nearly every one of his predictions sound impossibly rediculous at the time he makes them, yet many of them have come true. But before I get to Kurzweil’s wildest predictions I should say that Kurzweil is not a professional theorist. He writes a lot of books and has spoken at many conferences, but his day job is as an inventor, entrepreneur, and Direct of Engineering at Google. It’s easy to make predictions, but it’s an entirely other thing to use your understanding of technological trends to succesfully invent and sell amazing products, which is what Kurzweil has done. The best example of this is a company started by Kurzweil called Kurzweil Computer Products, which he started in 1974 to develop the first optical character recognition system, which was then used for a text-to-speech synthesizer to allow blind people to understand written text by having a computer read it to them aloud. Eventually the company became Nuance Speech Technologies, which developed the technology that is now apart of iPhone’s Siri.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/4088670e400ff679340b3823844bcddd/e60c5/ray.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBP/EABYBAQEBAAAAAAAAAAAAAAAAAAMBAv/aAAwDAQACEAMQAAABxWRGtjSNj//EABsQAAICAwEAAAAAAAAAAAAAAAECABEDEhMh/9oACAEBAAEFAlFNQ6cplJVa3ijz/8QAFhEBAQEAAAAAAAAAAAAAAAAAABFB/9oACAEDAQE/AcV//8QAGBEAAwEBAAAAAAAAAAAAAAAAAAECEiH/2gAIAQIBAT8Bq2r4aZ//xAAaEAACAgMAAAAAAAAAAAAAAAAAIQERAxAx/9oACAEBAAY/AomkNXzSMbHNn//EABsQAQADAQADAAAAAAAAAAAAAAEAESExQVFh/9oACAEBAAE/IbowfMQ0PijrsMNOPSCYaXZcUO/3P//aAAwDAQACAAMAAAAQYC//xAAWEQEBAQAAAAAAAAAAAAAAAAAAAXH/2gAIAQMBAT8QlNP/xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAIAQIBAT8Q1YhTW//EABwQAQADAAIDAAAAAAAAAAAAAAEAESExUXGRwf/aAAgBAQABPxBSeg0MTxFgqlHBFQ0zkY98+ogGrCzqI+RoHFW/YGN3is6n/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Ray Kurzweil&quot;
+        title=&quot;&quot;
+        src=&quot;/blog/static/4088670e400ff679340b3823844bcddd/f8fb9/ray.jpeg&quot;
+        srcset=&quot;/blog/static/4088670e400ff679340b3823844bcddd/e8976/ray.jpeg 148w,
+/blog/static/4088670e400ff679340b3823844bcddd/63df2/ray.jpeg 295w,
+/blog/static/4088670e400ff679340b3823844bcddd/f8fb9/ray.jpeg 590w,
+/blog/static/4088670e400ff679340b3823844bcddd/85e3d/ray.jpeg 885w,
+/blog/static/4088670e400ff679340b3823844bcddd/d1924/ray.jpeg 1180w,
+/blog/static/4088670e400ff679340b3823844bcddd/9452e/ray.jpeg 1770w,
+/blog/static/4088670e400ff679340b3823844bcddd/e60c5/ray.jpeg 2496w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;In Kurzweil’s first book, &lt;em&gt;The Age of Intelligent Machines&lt;/em&gt;, written in the mid-190s, he predicted that a computer would take the world chess championship by 1998. IBM’s chess supercomputer Deep Blue famously defeated the reigning human world chess champion, Garry Kasparov in 1997, thereby fulfilling one of Kurzweil’s most famous predictions. In &lt;em&gt;The Age of Intelligent Machines&lt;/em&gt;, written in the mid-1980s, Kurzweil predicted the emergence in the mid - to late 1990s of a vast worldwide web of communications tying together people around the world to one another and to all human knowledge. Kurzweil has made many more predictions in past books and still has predictions outstanding, like his prediction that a computer will pass the Turing test by 2029. As Ray tells it in &lt;em&gt;How to Create a Mind&lt;/em&gt;, ”&lt;em&gt;The Age of Spiritual Machines&lt;/em&gt; included hundreds of predictions for specific decades (2009 , 2019 , 2029 , and 2099). For example, I made 147 predictions for 2009 in The Age of Spiritual Machines, which I wrote in the 1990s. Of these, 115 (78 percent) are entirely correct as of the end of 2009; the predictions that were concerned with basic measurements of the capacity and price/performance of information technologies were particularly accurate. Another 12 (8 percent) are “essentially correct.” A total of 127 predictions (86 percent) are correct or essentially correct. (Since the predictions were made specific to a given decade, a prediction for 2009 was considered “essentially correct” if it came true in 2010 or 2011.) Another 17 (12 percent) are partially correct, and 3 (2 percent) are wrong.”&lt;/p&gt;
+&lt;p&gt;Kurzweil’s predictions are based on his theory called the Law of Accelerating Returns, which states that fundamental measures of information technology follow predictable and exponential trajectories. This concept is beyond the scope of this blog post, but can be pretty well explained visually with the chart below. The most dramatic example of the LOAR is the remarkably predictable exponential growth in the capacity and price/performance of information technologies. The evolutionary process of technology led invariably to the computer, which has in turn enabled a vast expansion of our knowledge base, permitting extensive links from one area of knowledge to another.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/a6371cc55890cbf33fa1275699fca0b2/db559/exponential-computing.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 85.31249999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAARABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAGmmarNhGplgA//xAAcEAACAgIDAAAAAAAAAAAAAAACAwABBBIQERT/2gAIAQEAAQUCx0gSvOqNANkHVK3GMse+f//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABURAQEAAAAAAAAAAAAAAAAAABEg/9oACAECAQE/AWP/xAAdEAACAQQDAAAAAAAAAAAAAAAAARECICEyIjGh/9oACAEBAAY/ApqWTX04pHaNkKGrP//EABwQAQACAwADAAAAAAAAAAAAAAEAERAxQSGx4f/aAAgBAQABPyEPYs9jv9kGClXITEm3wsftwYafHDvH/9oADAMBAAIAAwAAABCgxzz/xAAVEQEBAAAAAAAAAAAAAAAAAAARIP/aAAgBAwEBPxAj/8QAFxEBAAMAAAAAAAAAAAAAAAAAAREgMf/aAAgBAgEBPxBg5T//xAAcEAACAgMBAQAAAAAAAAAAAAABEQAxIUFRYfD/2gAIAQEAAT8QNvIAlhRiZYx8XNnCM8syuQIjfsKAx9xi+AZq6bW4ZZBU/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Exponential growth of computing&quot;
+        title=&quot;&quot;
+        src=&quot;/blog/static/a6371cc55890cbf33fa1275699fca0b2/f8fb9/exponential-computing.jpg&quot;
+        srcset=&quot;/blog/static/a6371cc55890cbf33fa1275699fca0b2/e8976/exponential-computing.jpg 148w,
+/blog/static/a6371cc55890cbf33fa1275699fca0b2/63df2/exponential-computing.jpg 295w,
+/blog/static/a6371cc55890cbf33fa1275699fca0b2/f8fb9/exponential-computing.jpg 590w,
+/blog/static/a6371cc55890cbf33fa1275699fca0b2/db559/exponential-computing.jpg 640w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h2&gt;The Pattern Recognition Theory of the Mind&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;How to Create a Mind&lt;/em&gt; seeks to understand precisely how the human brain works, and then to use those methods to create even more intelligent machines.&lt;/p&gt;
+&lt;p&gt;In his book, Kurzweil presents a thesis called the Pattern Recognition Theory of Mind (PRTM), which describes the basic algorithm of the neocortex (the region of the brain responsible for perception, memory, and critical thinking). Kurzweil uses his own thought experiments, as well as neuroscience research to create his PRTM.&lt;/p&gt;
+&lt;p&gt;Kurzweil argues that the neocortex is composed of a highly repetitive structure, allowing humans to create abitratily complex structures of ideas. We are capable of hierarchical thinking, of understanding a structure composed of diverse elements arranged in a pattern, representing that arrangement with a symbol, and then using that symbol as an element in a yet more elaborate configuration. This capability takes place in a brain structure called the neocortex, which in humans has achieved a threshold of sophistication and capacity such that we are able to call these patterns ideas. Through an unending recursive process we are capable of building ideas that are ever more complex.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/e2c8d38f40fbea1205c82f6ede754ed9/3b84f/neocortex.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAMBBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAelSuFQf/8QAGRAAAwEBAQAAAAAAAAAAAAAAAQIDABIT/9oACAEBAAEFAqX5adfQZkDBJqg3/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGBABAAMBAAAAAAAAAAAAAAAAAQAQESH/2gAIAQEABj8CwvpMCv/EABoQAQACAwEAAAAAAAAAAAAAAAERMQAQIVH/2gAIAQEAAT8hlyOe5MJZemwDJeBRhr//2gAMAwEAAgADAAAAEPfP/8QAFxEBAAMAAAAAAAAAAAAAAAAAEQEQQf/aAAgBAwEBPxAgdr//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAaEAEAAwEBAQAAAAAAAAAAAAABABEhgTFB/9oACAEBAAE/ELja6V/alQQUAGc2GhcfXUWNOwWg7vZ5P//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Human brain diagram&quot;
+        title=&quot;&quot;
+        src=&quot;/blog/static/e2c8d38f40fbea1205c82f6ede754ed9/f8fb9/neocortex.jpeg&quot;
+        srcset=&quot;/blog/static/e2c8d38f40fbea1205c82f6ede754ed9/e8976/neocortex.jpeg 148w,
+/blog/static/e2c8d38f40fbea1205c82f6ede754ed9/63df2/neocortex.jpeg 295w,
+/blog/static/e2c8d38f40fbea1205c82f6ede754ed9/f8fb9/neocortex.jpeg 590w,
+/blog/static/e2c8d38f40fbea1205c82f6ede754ed9/3b84f/neocortex.jpeg 720w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;The human neocortex contains about 300 million pattern recognizer modules, arranged in a hierarchy. For example, to recognize a written word there might be several pattern recognizers for each different letter stroke: diagonal, horizontal, vertical or curved. The output of these recognizers would feed into higher level pattern recognizers, which look for the pattern of strokes which form a letter. Finally a word-level recognizer uses the output of the letter recognizers. All the while signals feed both “forward” and “backward”. For example, if a letter is obscured, but the remaining letters strongly indicate a certain word, the word-level recognizer might suggest to the letter-recognizer which letter to look for, and the letter-level would suggest which strokes to look for. This is a single sentence summarization of the pattern recognizer that Kurzweil discusses at length in his book.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/5fb6f401566e267beac4a4b1a2b036dd/c2adc/apple-input.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 69.45169712793734%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAAAsSAAALEgHS3X78AAABl0lEQVQ4y22TW4vCQAyF+/8f/DWCb6L4IAgiKwrer+ClIt5bL9Vsv+zGnZ0aCNMkM2dOzqSBOPZ6vdxQHo+HHI/HjzXscrnI7Xb7lwt8MNY4juX5fEqSJBJFkQLf73c9fL1eJUrrGLU4jTlDnXMZQIB2u510u12p1+vSarVkOp3KeDyWMAyVMUC1Wk36/b7M53P5ajZ15cKPDMPNRiqVilSrVWm329LpdKRUKino6XRSp1Yul6XRaEixWJRer/cHCIgLCAv0gS3twuh8PutKnhU5aHG/36sMgLEncMF8wU03QE1Hc8sbGN9c8mZIACO+2bRarX4Ypvnk16mRc90ImQfGzmUAoLFwV0D9EfK7C9g4HA5VXNoEDC1ms5nG6HQ4HGQ0Gr11dcEyDAHM5/OSy+Vku90qk8FgoLnJZKLsAC8UCrJJX9/Y4+5DvhkyAowDMwUgLwjAYrHQ1WI0ZdZ8/TKANsgc4FaMUViv19o6Rn25XCq4bxkNEdpEtzZoyx6JCy1mn69ZhqGNi/275pYDyK3bo3yaXewb3BA7iT0D8MwAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Visual for inputs of strokes to letters to words&quot;
+        title=&quot;&quot;
+        src=&quot;/blog/static/5fb6f401566e267beac4a4b1a2b036dd/fb8a0/apple-input.png&quot;
+        srcset=&quot;/blog/static/5fb6f401566e267beac4a4b1a2b036dd/1a291/apple-input.png 148w,
+/blog/static/5fb6f401566e267beac4a4b1a2b036dd/2bc4a/apple-input.png 295w,
+/blog/static/5fb6f401566e267beac4a4b1a2b036dd/fb8a0/apple-input.png 590w,
+/blog/static/5fb6f401566e267beac4a4b1a2b036dd/c2adc/apple-input.png 766w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h2&gt;How To Create a Mind&lt;/h2&gt;
+&lt;p&gt;So how would PRTM be repeated in computers? Kurzweil suggests that the best results will come from using hierarchical hidden Markov models and genetic algorithms, especially since he used all three successfully in his speech recognition work.&lt;/p&gt;
+&lt;p&gt;We would start with the pattern recognizer module. Make as many copies of the recognizer as we have memory and computational resources to support. Each recognizer computes the probability that its pattern has been recognized. In doing so, it takes into consideration the observed magnitude of each input (in some appropriate continuum) and matches these against the learned size and size variability parameters associated with each input. The recognizer triggers its simulated axon if that computed probability exceeds a threshold. This threshold and the parameters that control the computation of the pattern’s probability are among the parameters we will optimize with a genetic algorithm. Because it is not a requirement that every input be active for a pattern to be recognized, this provides for autoassociative recognition (that is, recognizing a pattern based on only part of the pattern being present). We also allow for inhibitory signals (signals that indicate that the pattern is less likely). Recognition of the pattern sends an active signal up the simulated axon of this pattern recognizer. This axon is in turn connected to one or more pattern recognizers at the next higher conceptual level. All of the pattern recognizers connected at the next higher conceptual level are accepting this pattern as one of its inputs. Each pattern recognizer also sends signals down to pattern recognizers at lower conceptual levels whenever most of a pattern has been recognized, indicating that the rest of the pattern is “expected.” Each pattern recognizer has one or more of these expected signal input channels. When an expected signal is received in this way, the threshold for recognition of this pattern recognizer is lowered (made easier). The pattern recognizers are responsible for wiring” themselves to other pattern recognizers up and down the conceptual hierarchy. Note that all the “wires” in a software implementation operate via virtual links (which are basically memory pointers) and not actual wires. This system is actually much more flexible than that in the biological brain. In a human brain, new patterns have to be assigned to an actual physical pattern recognizer, and new connections have to be made with an actual axon - to - dendrite link. Usually this means taking an existing physical connection that is approximately what is needed and then growing the necessary axon and dendrite extensions to complete the full connection.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/8406b8d3e177f5393a349e782fc5b314/caca9/signal-input.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.9761273209549%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsSAAALEgHS3X78AAAB0UlEQVQ4y12TB47CQAxFc3iuwCG4AwiEEBI1oYMQILSE3nv35lnrrMCSMzMZ5/v723FW67V0u13p9/tyvV4Fu91u8jMayShwe/d+v9U5c3+/33V9PB4f987lcpFSqSSu58r5fBaz8XisSXa7XfgBRky5XJZKpaLeaDQ+QB1jZEzWAePNZiOHw0H2+70sFgs9A7xcLmUfvD+dTnp3+Ns/n89/hjxer5eWYB8DjgwwqNVq0mq1NBE2m83keDyGjL8tBMRhYFknk4l4nif5fF46nY60221lBbAyDfab7Va2gbNnpXTHkAGGHRffRmAsFpNEIiHT6VRZplIpSafT6vF4XO/m87k4MCKIg2oTnNELJqvVSpPQhEgkItFoVHzf1yqQAVl6vZ7U63UZDAb6vUNDstmsZgIYhpSay+WkWCxKoVDQTgJA6cSQjMlAX8Bc19VEqiEPmkBWDD0YGTTEAaBZVIBbd40d3mw2NSZsihkzBm0YAIT4BHJGBgAZEWSgWdVqVavwAwI2i441hC7bQBNESTj6lfBgjxSAEkuJ7FmtkeFgG0vmC+2SyaSudC+TyYROZ0lGFd9mGB+ABA6HQ20CYiM6DJlBdOIdv6PpDVP7QwznF+bxyyzYQBy3AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Diagram of a pattern recognizer&quot;
+        title=&quot;&quot;
+        src=&quot;/blog/static/8406b8d3e177f5393a349e782fc5b314/fb8a0/signal-input.png&quot;
+        srcset=&quot;/blog/static/8406b8d3e177f5393a349e782fc5b314/1a291/signal-input.png 148w,
+/blog/static/8406b8d3e177f5393a349e782fc5b314/2bc4a/signal-input.png 295w,
+/blog/static/8406b8d3e177f5393a349e782fc5b314/fb8a0/signal-input.png 590w,
+/blog/static/8406b8d3e177f5393a349e782fc5b314/caca9/signal-input.png 754w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;To implement this approach to self - organizing hierarchical pattern recognition we should use hierarchical hidden Markov models. Note that not all hidden Markov model systems are fully hierarchical. To build a brain, we will want to enable our system to create as many new levels of hierarchy as needed. Also, most hidden Markov model systems are not fully self- organizing. A key requirement is to allow for the system to flexibly create its own topologies based on the patterns it is exposed to.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/6b70bd3de43eee798151249aa1bf401b/e7ea1/HHMM.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 67.91237113402062%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAAAsSAAALEgHS3X78AAABqklEQVQ4y32T2Y7CMAxF+///xQtCIJ6GRVCWln1poXRvPTmWUgUGjaUojeNcX1+7nhhr21bc3VqaphJFkTyfTzkej9I0zVvMt3fepzNJErndbp0vz3PZ7/e6W7ua+9fr9RVUAe3CwjCUIAgUuCgKuVwust1u5Xq9SlEWEsWRng+HQwfkvvfcAwA/k4n4vq/lVlWlpU6nU7nf71LVlZY/m80UNC/yN4Yszx7qupayKmViAAeDgeqFwbbX6ylDDH+/3xd/5UtmZEiztItVhqfTSdbrdacJrGBhrSxLbQwJLZssyzpNH4+HVgSOAiL4arVSEDeTBQfMdvub0UDeW009NEIPqxmZYQNjkuGDGTtn4pq2keSVGA0LZUuFVhLvb85WHwVhoPpFcazNOp/PeoYACd2GuHP5NjZuxxeLhYzHYyN6plIwPsPhUAE/x+VtbNxLd0B3u51sNptOV8oFEP+/gNDnEcv9tkH2W8s0+qKlHR83rgOk7TSF1i+XS+2YXfw1+BGdO3a6iRx8oylv5/O5/lkKSMBoNJLYiA8LGsDsuTsLdix87O69nQzsF8ObOwhj07FxAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Diagram of hierarchical hidden Markov model&quot;
+        title=&quot;&quot;
+        src=&quot;/blog/static/6b70bd3de43eee798151249aa1bf401b/fb8a0/HHMM.png&quot;
+        srcset=&quot;/blog/static/6b70bd3de43eee798151249aa1bf401b/1a291/HHMM.png 148w,
+/blog/static/6b70bd3de43eee798151249aa1bf401b/2bc4a/HHMM.png 295w,
+/blog/static/6b70bd3de43eee798151249aa1bf401b/fb8a0/HHMM.png 590w,
+/blog/static/6b70bd3de43eee798151249aa1bf401b/e7ea1/HHMM.png 776w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Our digital brain will also accommodate substantial redundancy of each pattern, especially ones that occur frequently. This allows for robust recognition of common patterns and is also one of the key methods to achieving invariant recognition of different forms of a pattern. We will, however, need rules for how much redundancy to permit, as we don’t want to use up excessive amounts of memory on very common low - level patterns.&lt;/p&gt;
+&lt;p&gt;The rules regarding redundancy, recognition thresholds, and the effect on the threshold of a “this pattern is expected” indication are a few examples of key overall parameters that affect the performance of this type of self - organizing system. We would initially set these parameters based on intuition, but we would then optimize them using a genetic algorithm.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/b0bee30fb3f375830ae55d339dd6e2fe/9ccaf/training-models.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 433px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75.75057736720554%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAAAsSAAALEgHS3X78AAAB2klEQVQ4y3WT6Y7CMAyE+/4PBRL/ACFAXAKVcpQbcZZyFrz9LDnKol1LadIkHns8TvD5fAS7Xq9yOBzk9XoJe3+N9/ut49sej4fc73ddBz7gdruVOI7V6fl8KniWZW6Ncbbf72U0GkkYhjr6/b7u/QLEWHPADFCWOzObjcdjaTabGvR8PuuZMbJgAYvBYCBJkqjDfD7Xi9AgM4xSVCoVHcvlUk6nk+4RnLFer9VfM+RTr9cdpc1m4+qFtVotKRaL0u12FQhHwBjH49HtERw/pdxutyVNU41ONCt+oVCQRqOhBTdh/jPzUUCywIlIUMZKpZL0ej1ds09A6JHRZDKR6XQqi8VC789mM1dLpVytVuV2u2naOHChXC4rGLSoKYDQBDwcDrXecX4viiLZ7XauTJohyl0uF422Wq20DSwrxAEQBrQW+7VaTTqdjioNmPWgUxlAE4UaQgUgnK1u9CjimapkSAC/5RQQIBSEMqJQN7I05Tj3ZwKROedk5p87ylDih0YGEBpGwSL7s2XkP0nbC3zpoYAgCJPmazJwTZ5nYPW0TMkKZtSfmbPA768kP6DQXACcJxblb3aYq0qbMPOqUJaZd8x9E1AB/aJ+m9UU1a3veAQozB7DxDT7Ae2VfgQdL38mAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Diagram of hand-coded versus learning techniques&quot;
+        title=&quot;&quot;
+        src=&quot;/blog/static/b0bee30fb3f375830ae55d339dd6e2fe/9ccaf/training-models.png&quot;
+        srcset=&quot;/blog/static/b0bee30fb3f375830ae55d339dd6e2fe/12290/training-models.png 148w,
+/blog/static/b0bee30fb3f375830ae55d339dd6e2fe/34c59/training-models.png 295w,
+/blog/static/b0bee30fb3f375830ae55d339dd6e2fe/9ccaf/training-models.png 433w&quot;
+        sizes=&quot;(max-width: 433px) 100vw, 433px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;A hierarchical pattern recognition system (digital or biological) will only learn about two— preferably one— hierarchical levels at a time. To bootstrap the system we would start with previously trained hierarchical networks that have already learned their lessons in recognizing human speech, printed characters, and natural - language structures. Such a system would be capable of reading natural-language documents but would only be able to master approximately one conceptual level at a time. Previously learned levels would provide a relatively stable basis to learn the next level. The system can read the same documents over and over, gaining new conceptual levels with each subsequent reading, similar to the way people reread and achieve a deeper understanding of texts.&lt;/p&gt;
+&lt;p&gt;We should also provide a critical thinking module, which would perform a continual background scan of all of the existing patterns, reviewing their compatibility with the other patterns (ideas) in this software neocortex. We have no such facility in our biological brains, which is why people can hold completely inconsistent thoughts with equanimity. Upon identifying an inconsistent idea, the digital module would begin a search for a resolution, including its own cortical structures as well as all of the vast literature available to it. A resolution might simply mean determining that one of the inconsistent ideas is simply incorrect (if contraindicated by a preponderance of conflicting data). More constructively, it would find an idea at a higher conceptual level that resolves the apparent contradiction by providing a perspective that explains each idea. The system would add this resolution as a new pattern and link to the ideas that initially triggered the search for the resolution. This critical thinking module would run as a continual background task.&lt;/p&gt;
+&lt;p&gt;We should also provide a module that identifies open questions in every discipline. As another continual background task, it would search for solutions to them in other disparate areas of knowledge. The knowledge in the neocortex consists of deeply nested patterns of patterns and is therefore entirely metaphorical. We can use one pattern to provide a solution or insight in an apparently disconnected field using these metaphors.&lt;/p&gt;
+&lt;p&gt;We should provide a means of stepping through multiple lists simultaneously to provide the equivalent of structured thought. A list might be the statement of the constraints that a solution to a problem must satisfy. Each step can generate a recursive search through the existing hierarchy of ideas or a search through available literature. We will also want to enhance our artificial brains with the kind of intelligence that computers have always excelled in, which is the ability to master vast databases accurately and implement known algorithms quickly and efficiently. Finally, any new brain will need a purpose, a series of goals, to set it in the right direction.&lt;/p&gt;
+&lt;p&gt;The brain is extremely slow but massively parallel. Today’s digital circuits are at least 10 million times faster than the brain’s electrochemical switches. Conversely, all 300 million of the brain’s neocortical pattern recognizers process simultaneously, and all quadrillion of its interneuronal connections are potentially computing at the same time. The key issue for providing the requisite hardware to successfully model a human brain, though, is the overall memory and computational throughput required. We do not need to directly copy the brain’s architecture, which would be a very inefficient and inflexible approach.&lt;/p&gt;
+&lt;p&gt;Our new digital brain can be expanded in ways that a human biological brain cannot. Once a digital neocortex learns a skill, it can transfer that know-how in minutes or even seconds. When we augment our own neocortex with a synthetic version, we won’t have to worry about how much additional neocortex can physically fit into our bodies and brains, as most of it will be in the cloud, like most of the computing we use today. As soon as we start thinking in the cloud, there will be no natural limits— we will be able to use billions or trillions of pattern recognizers, basically whatever we need, and whatever the law of accelerating returns can provide at each point in time. Last but not least, we will be able to back up the digital portion of our intelligence.&lt;/p&gt;
+&lt;p&gt;As I hope I’ve summarized in this blog post, combining human-level pattern recognition with the inherent speed and accuracy of computers will result in very powerful abilities and a very bright future indeed, which is what got me so excited in the first place and has lead me to this point in my life.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[How I Built My First Full-Stack Web Application]]></title><description><![CDATA[The Project As I worked on the Free Code Camp curriculum I knew I wanted to work on my own projects. I had built up a list of cool ideas…]]></description><link>https://spencercorwin.com/5/digidex-reflections/</link><guid isPermaLink="false">https://spencercorwin.com/5/digidex-reflections/</guid><pubDate>Thu, 31 Jan 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;The Project&lt;/h2&gt;
+&lt;p&gt;As I worked on the Free Code Camp curriculum I knew I wanted to work on my own projects. I had built up a list of cool ideas that I thought would be fun, educational, and were well within my capabilities. So after finishing the Free Code Camp curriculum in mid-December 2018 I was ready to go with my first independent, full-stack web application. I was eager to build something from the ground up that was entirely my own.&lt;/p&gt;
+&lt;p&gt;My best idea for this first project was called Digidex (short for digital-index). The idea is for the app is one that I had been contemplating for a while. In the past when I worked in sales position I usually had access to a customer relationship management software like Salesforce to keep track of leads, progress on deals, track workflow management, and more. Salesforce is a powerful and feature-rich tool for sales people in all fields. But I wanted to have a Salesforce-like tool to keep track of my personal acquaintances that didn’t necessarily belong in my employer’s Salesforce database. Usually these were, and are, people that I am not looking to sell anything too, but are people that aren’t necessarily close friends. I looked for a tool like this but couldn’t find anything good. So I figured this would be a great little project for me to pursue, since it was within my technical reach and was a product that I could design and build for the ideal user: me.&lt;/p&gt;
+&lt;p&gt;The primary goal with building a full-stack project would be to learn. I especially wanted to fill a perceived gap in my knowledge of how to connect all the pieces of a web-application that I had learned as part of FCC. I knew conceptually how I would connect a database, to an Express server, to a React front-end, but I also knew that knowing something conceptually is not the same as being able to do it in practice. So my goal was to use this project as a course in &lt;em&gt;actually&lt;/em&gt; building a &lt;em&gt;real&lt;/em&gt;, &lt;em&gt;live&lt;/em&gt; web application. I would use React and React Router on the front-end, NodeJS and ExpressJS for the server (plus some small er libraries), MongoDB (no Mongoose) for the database, and deploy it to Heroku.&lt;/p&gt;
+&lt;p&gt;At the very start I knew I needed to keep it simple but to also ensure it could do the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Register a new user&lt;/li&gt;
+&lt;li&gt;Secure login/logout of registered users&lt;/li&gt;
+&lt;li&gt;Create new “contacts” (people you want to keep notes on)&lt;/li&gt;
+&lt;li&gt;Update and edit existing contacts&lt;/li&gt;
+&lt;li&gt;Delete contacts&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Inevitably it was more complicated and took longer to complete than I had originally estimated, which was a valuable lesson in-and-of-itself. Of course, “art is never finished, only abandoned”, as Leonardo da Vinci said. So I recognize this as Version 1.0 with much room to improve.&lt;/p&gt;
+&lt;h2&gt;Room for Improvement&lt;/h2&gt;
+&lt;p&gt;As I got through the project I knew I was going to have to come back and refactor large portions of the code I was writing. To me this was good because I felt confident that I could recognize where there was room for improvement in the project, and in my own skills. By the end of the project I also had the feeling that I likely did many things in a more verbose way than was necessary simply because of a lack of experience and knowledge. Despite recognizing where there was room for improvement I kept on my originally defined path in order to keep Version 1.0 of the app from ballooning into something I couldn’t manage. Here are the things that came to mind while I was creating Version 1.0 that in another scenario I would have included without refactoring:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Writing unit and functional tests with Mocha/Chai (which I have experience with) and Jest (which I have not used)&lt;/li&gt;
+&lt;li&gt;Designing for mobile first&lt;/li&gt;
+&lt;li&gt;Better Git messages with consistent format and style (declarative subject line, then empty line, then paragraph describing details of commit)&lt;/li&gt;
+&lt;li&gt;Better Git branching (I only committed to Master)&lt;/li&gt;
+&lt;li&gt;Redux for easier state management between components&lt;/li&gt;
+&lt;li&gt;Sass CSS preprocessor and CSS modules so that the CSS is more manageable and scalable&lt;/li&gt;
+&lt;li&gt;Better database modeling (one to many model as opposed to large single documents, which would make it easier to update and delete subdocuments without making it much harder to create or read them)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Luckily Version 1.0 of this project is small enough that refactoring the above will not be unmanageable.&lt;/p&gt;
+&lt;p&gt;By the end of this milestone I was pushing hard to get to my desired minimum viable product goal. I could see the finish line I had set for myself and was eager to achieve this goal. When I did I felt amazing. Now I have to take a few days to decompress before reading more into React, database modeling, and other techniques that will help me build on this initial success for bigger and better things. I also plan on working on an open-source project I’ve been eyeing for a while now. I look forward to the new and unique challenge of familiarizing myself with a large, complex, and sophisticated code-base, with the goal of making serious contributions. This will be great for seeing how experienced professionals write better code in a large project. Until next time, code on.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[How To Connect A React Front-End to an Express Back-End]]></title><description><![CDATA[After at least a week of repeatedly banging my head against a wall I have finally, successfully connected my React front-end to my Express…]]></description><link>https://spencercorwin.com/4/how-to-connect-front-end-to-back-end/</link><guid isPermaLink="false">https://spencercorwin.com/4/how-to-connect-front-end-to-back-end/</guid><pubDate>Thu, 10 Jan 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;After at least a week of repeatedly banging my head against a wall I have finally, successfully connected my React front-end to my Express back-end. After finishing the Free Code Camp curriculum in mid-December I felt ready to finally build the apps of my dreams. My motto is, and always has been, to dream big but start small. So I swiftly got to work on my first independent, full-stack web-application, called Digidex. It’s not currently completed but I’ve just made a large personal breakthrough by connecting the front-end to the back-end. This may not seem like a big deal to most people, and maybe it’s truly not a big deal, but to me this was a major point of success for me. As I learned web-development I could not wrap my head around how the whole front-end/back-end dynamic worked. That was until I got to the very last lessons in Free Code Camp. Doing those back-end lessons and projects in Free Code Camp really opened up to my eyes to the larger picture of web development and allowed me to image the infinite possibilities and how I could create them. But Free Code Camp still glossed over how to combine the whole picture into fully-functioning web-apps. By getting this far in my first app, Digidex, I now feel I understand this dynamic much better.&lt;/p&gt;
+&lt;h2&gt;The Problem&lt;/h2&gt;
+&lt;p&gt;Before this point I understood conceptually how front-end and back-ends work together, but not practically. My problem for many stressful hours was specifically how to do a redirect from Express with React. Free Code Camp never covered how to use a front-end framework like React with a back-end like Express. The examples that FCC used were with an Express back-end but a plain HTML front-end, or at most using Pug.js. Well I was set on using React, and I was interested in using React Router, which I had never used before. So I created the profile page for the authenticated user and the login page for authentication and for registration, all using React. Now the tricky part. How to use React Router to redirect from login page to profile page using my Express login API? I knew how to redirect from Express. But how was I supposed to use the Express redirect on the front-end with React Router? I worked on this for many hours, playing with React Router, reading tutorial snippets, and reading Router documentation. But I got nowhere. I eventually relented, abandoned React Router, and went with my backup plan- I would simply create two React apps (I figured I could always come back to React Router later). One app for the login page and another for the profile page. Express would send the user the login page on one route (with &lt;code class=&quot;language-text&quot;&gt;response.sendFile()&lt;/code&gt;) and then redirect to another Express route which would then serve the profile page.&lt;/p&gt;
+&lt;p&gt;Here’s what the Express routes looked like (link to GitHub Gist &lt;a href=&quot;https://gist.github.com/spencercorwin/c81875106ea3954d711abbce4da52e50&quot;&gt;here&lt;/a&gt;):&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/9e40dce3e55a30692a6856cc04094d31/6c011/routes-before-solution.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 55.6910569105691%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAABEUlEQVQoz5VSi3KDMAzj/z90663dklDyDmiyKT2ytawLp8sDR7YVDWb0MFNGLhWlNqLe1j3k7Bnkf4gJxo0YlmWBI+nl4pBzQW0z5nnWubamaFxL3F+Qe0oolQWfEUJBzCTgPqbSQeLWsc2/h8QMwppz5qWkGX5EdMFH6AilutObxfuHhfmips7DjhMsNXGcJx+QmLCx/f3lfbKOUDUrRJ2RKLKeiSaqy4quogfV7wgbvI9aiXFO29fWl2OtHu3vFcZYcDlPOJ0tPs3apnUTrkyUS9FHa6291rJYQqoJLmCkHxNfeeaZ+CvRRisq5aCF6Let5aePoln5pWviQyR4GnQjEpL/jHvLat6bZV4x8BG+AU2qY+zWfNAdAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Express routes Gist&quot;
+        title=&quot;&quot;
+        src=&quot;/blog/static/9e40dce3e55a30692a6856cc04094d31/fb8a0/routes-before-solution.png&quot;
+        srcset=&quot;/blog/static/9e40dce3e55a30692a6856cc04094d31/1a291/routes-before-solution.png 148w,
+/blog/static/9e40dce3e55a30692a6856cc04094d31/2bc4a/routes-before-solution.png 295w,
+/blog/static/9e40dce3e55a30692a6856cc04094d31/fb8a0/routes-before-solution.png 590w,
+/blog/static/9e40dce3e55a30692a6856cc04094d31/526de/routes-before-solution.png 885w,
+/blog/static/9e40dce3e55a30692a6856cc04094d31/6c011/routes-before-solution.png 984w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Here’s what the file structure of the two React apps looked like:&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/47936ec7afa12f8ea28ce222c0f2a33f/cd37a/two-react-app-files.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 253px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 314.62450592885375%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAA/CAYAAADg4uj4AAAACXBIWXMAAAsSAAALEgHS3X78AAAHfUlEQVRYw5VXWXvbxhX1f+9j2n55Suol9ecmrWXLtmw5UeK0llTFcVzXdexGEjdJ4AYSOwEMFspSenrPgKBBiqKYh6sZQODBXc49d3AtSRJYloXBYIBms4mTkxMEQQClFOI4hrrCYnlO77mKXeOfMAzhui5MAbVsByEfSFLE8rKlNgGLJ2AakF7QS9tx0DcMHLx9A6NRQzYKELsOlLfEGMUFD6MI8fgUqvYe8Z9+B2ftOvy7n2F07zryJ3cW2+aXyO/L/59+VfxWMGYBP5wje/MD/G/uoesFaB4ewjg+Rp5liPnwnGmvHAv5+nXE8sxFDwUwffsj8hffwc3GcKRIvX5f5zSeFKewyV5SpCQd+cZtxOkSwGxvC152iqHZR7vdRl9A+VAmXqRpqo35TvMcqe8J4J8vB8ze/gS181AATQwEiPQxpEidTgdHR0eo1Wp6bcu9lqSjXT9E9ugLKKZlsYcvke5uwh+P4No2hsMhbFlJJ/K03NOGsvf6XQ0YXwZID+Pt++gFr9Ex2uLdCY7FE3rI8E3T1KF/DNldHjJzmO4+RZin2kN2jiPcpHc0z/Om3VMUxb4KUELefiJdEukcNhoN7V2ZQwLm4lkBmK4GmOxuwBuLV4Mhut3uNFx62+v1dNiq6uGjApBcLak1B/gEgRSFPCQYAQhMQK4sVEbqkEaSw/Hj20jyMVJ5QTKxOcDHcFMTPQEjZQhSFobgvFeTLjqW1agdwrz1e9RbR/oeU8T/zwL+sIXgLBOhIDUcDFkU14Mt+XN8HwO5Z/M6GMEbShet34Qre6dCqQLwrOjldOsvknx5c72Gk/33Yv9F++AXtA/30RAVar57i47se60Gsp6B03ufIxFxSBNVCVmqGkseEqMJdfsTRKIizp1PYd3+I5Ts0wc3C1sv1mT9BpIHt5CvfYZse1P/dqYo0+aXarlJhq7loNHuom504Mu1knTEp2eynk1XvdfXHy4KbFXGPceGJbmxWU0qchQiDj+a4vXElLboosCWrvLCl8SzZ9kZzEdVZWjTnq3OlUWASiUyV1wBrIlkmZoqrVYL9Xpdqw47hdRRFW1UlTDV/EzhJpIQvMDWHpJzJZm58h69XxmQTLdE+l83utJ2JloyTvsCVjs4EOUxCloQZH4cxJUcTl4y9dDzA1iRgumP0BdwjxU++1WTfqHxf0KZhWNUiYfuoI/BzhbazzZgfLcBZ+8Z8p9Fgf7zopC2efv3HpKjmtAtnfVQl174lf3yGiHH6O4WzM27ML9eQ/7j90hlcGUvns1YKveznacY3/lD4aUOP74oX9HuNzDH5+gMLJgSdnL+P/2yIsyz2ZDzU+QPbxXaeMFDAkp4+T+/lm7J0e+0UZehdCzUiSdvT6bc41CXazlZ5A9uXBKyBvwJ6c6m6GEGX1SD8k/1GI1G+uzDA1S5D+U3IcfoMsDs51dQ2w9kjA6FMj1NbJKahOb+UDSPpzOSvkbCt5rIRDxU2UGLPEy2H8FJyMWBqPNAtyA9nSd2xB+HIzmKLPPw3b+gnt/HID6AKfODXcJ50pvs2T3s77JVNeDSHL6THD5/jEgIPWS3SJgEY8gMnfksATWRrwRkUThG80wPKZ5ryj7myqIsBEzSymEqni/KOpxMTl29vlYYFoCFoJfcMwWUMXaWkmqPqeBZjkSpBVNP0+YJRqdK04Yj052s9LI823DgB0KfKPCRrH0OV4rFgvE+1wrgKyTPHwqxe2iLN0dCC+PkWCuPITmk+hxRIzlG6X2jDvuLT3BQq+NQVInayQhmafPiWwhdYYniDLTq+LBGEWyqkLRi3xVFD2M4seRSDqY5T19lXi+cHAQwv/spwvoe7Jc76O39fWLfazt5vgVj+1t9z3y5LTR7VYiD5LBox+qQYoPbQwRP/wZr46/ort1E5+4NpP94hA9yIjuVluRa7sdi2bN1LWMEjONFY1RAg9NzWBJOLwjR86V/qTTnQCSqM2/xryjG6sIxOiGlPbR08k2xnIcihiKzhqu2KJreU+HcGJ0fAXEcipqQKp7uYVKkVBh/Qg1e06LJd8miYVUZo55wqan7lmRm6+3v70/VhkSnUXUI/rGvLwGMokAe7Gh1IZmpNmy/8kjM+/yB7pRLvJsBjCMf0ehED3qe82j0jGRl25XfLNW5fKmHnLuOEHm/Y4sntgahlwSlMJSn/yrAcg/FeHBs9q3pyYEhUr54Xe2EK08OfLMvjT0QkIYccxkmAXnEZX+yCLPiqpbaNVKgK/khPYpiDKdFIEU4lJbR5AJgIKG+evNeg9AjGulB6vAl9GxVsEkOZSSGHSEyc1ao9IzcX1HVhYC+b2gPDaM9lf55wFWBr7HlPK+hicwwy++Tshvmf3CVl9rD0cjUAGVBaCzGvFcreRhF8n3s1jTnyp4lVUhuXtPr8gOclb+KPjrkIOjpIVN6SN6R0ASgsdq0lT0cBU0B+Tg6y8N6ebZRkzG5Ug55kmqZDjpyQCIgi1KurDi9rlZ8BQ9jHA1cDEStWV2CVNdFgFdUOZRePpQvSktCNGY84xd8tQgrE3sU2rpvq7QpBfW3gNH+D/kXWSl4C4kvAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;File structure of two React app structure&quot;
+        title=&quot;&quot;
+        src=&quot;/blog/static/47936ec7afa12f8ea28ce222c0f2a33f/cd37a/two-react-app-files.png&quot;
+        srcset=&quot;/blog/static/47936ec7afa12f8ea28ce222c0f2a33f/e5367/two-react-app-files.png 148w,
+/blog/static/47936ec7afa12f8ea28ce222c0f2a33f/cd37a/two-react-app-files.png 253w&quot;
+        sizes=&quot;(max-width: 253px) 100vw, 253px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Maddeningly, this didn’t work! Firing up the Express server I could see the login page render, and I could also see the profile page render on their respective Express routes. But when the login page hit the Express API for authentication, the Express redirect did nothing. Keep in mind that I only got this far after hours of frustration, trial and error, and many &lt;code class=&quot;language-text&quot;&gt;console.log&lt;/code&gt; ‘s. It was time to search the internet for the answer…&lt;/p&gt;
+&lt;h2&gt;The Solution&lt;/h2&gt;
+&lt;p&gt;My main line of attack was to search something like “express won’t send response after passport authentication redirect”. From my view it looked like Express was doing everything except actually sending the &lt;code class=&quot;language-text&quot;&gt;response.redirect(&amp;#39;/profile&amp;#39;)&lt;/code&gt; back to the client. It’s really at this point that I realize I don’t know what I don’t know. I can’t quite ask the right question because I don’t know the nature of the problem. I was just about to give-in and ask Stack Overflow when finally I find the nugget of knowledge that is the key to solving the problem at this &lt;a href=&quot;https://stackoverflow.com/questions/26742079/passportjs-not-redirecting-after-user-is-authenticated&quot;&gt;Stack Overflow question&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Here’s a photo of the Stack Overflow comment that tipped me off:&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/4ce7068c38a94d954745d536c4cee037/f3cfc/the-holy-answer.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 52.0863309352518%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAABYlAAAWJQFJUiTwAAAB7UlEQVQoz01S2XLiMBDk/79qa3dDAiyXwdjGp4xv2cbchC3otOQ8RFVdmkstaaYHz+cTsRCIggCh7yEKAwTcA8+l72sEnoc4irTtuy5rGVe7sUBszBHMJpCBhxe5BoowXU6R/hsin4+Rz0bIZh/aTqcf33jXyOcj7CZvkOYCkS+QuB66yEO5tdCVBdQavF4v+LzZ5Y0iEgj4UsHXeHyV7/mI4xhhGELwF6ouYs4lkcu6OMvhC+Z3CQ7H0w9CHpgvlrBtGy5JTMuGubFg2Q62PGys1tgwpnxn62qsTRMb1hjGClJKfN7veDwePWGa54iTBNu0QS5b1O0eVbNH0x1wut5wvFyJC26P/zjTP12vej+eLzp/IZnO3z/7HlZZikxEyEmaqj0WKJwNcvaqtFYoNoaGdEzGltrOmKvsNUraqiZbzXCuq54wnI4Qvv/Ww9hNhhDjNz0khXD4C/HoDzIOZcd4RD8Z/9XxjAPaOQ6/7iF1LFyPh/7LZSVRlCVRQdYNUSMvSlSy1nZV1zpesVey7ZCxLe1+D9m0+us/F1/4QtM0KIqCKDVxSSgiFc/ZX9V05cuqQkXCtD7g0O3RdZ3G/cY+Xs79ULSwKQ1fyYXS8CgNBUE5aJ/yUbLxv+Mhhe8z5okEbhj3MuP5tm014ReaKtzOTuGofAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Stack Overflow comments section that helped solve my problem&quot;
+        title=&quot;&quot;
+        src=&quot;/blog/static/4ce7068c38a94d954745d536c4cee037/fb8a0/the-holy-answer.png&quot;
+        srcset=&quot;/blog/static/4ce7068c38a94d954745d536c4cee037/1a291/the-holy-answer.png 148w,
+/blog/static/4ce7068c38a94d954745d536c4cee037/2bc4a/the-holy-answer.png 295w,
+/blog/static/4ce7068c38a94d954745d536c4cee037/fb8a0/the-holy-answer.png 590w,
+/blog/static/4ce7068c38a94d954745d536c4cee037/526de/the-holy-answer.png 885w,
+/blog/static/4ce7068c38a94d954745d536c4cee037/fa2eb/the-holy-answer.png 1180w,
+/blog/static/4ce7068c38a94d954745d536c4cee037/f3cfc/the-holy-answer.png 1390w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;I learned that React has to handle the redirect. The browser won’t get redirect from Express directly. This is a key fact! I could now combine the two React apps into a single, easier to maintain app, and go back to React Router, which I have done and am still working on.&lt;/p&gt;
+&lt;p&gt;Here’s the new file structure:&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/3d33f06edf11aaeaba9eb6c29069f87a/8d59f/one-react-app-files.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 194px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 231.95876288659795%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAuCAYAAAAoaDnGAAAACXBIWXMAAAsSAAALEgHS3X78AAAECElEQVRIx5WXWVfiQBCF+f//ZZ5mHuYcz5lHl3EUBQFBQWQLSyAkBtGnmvoaKydmYXko02S5fbvureq28vb2Juv1WsbjsaxWK+l0OvLw8CD1el2ur69lNBrJZrORKIpc8P6+qNhLXMMwdOA2fn9/lziOjwJKAPnDxy8vLzIYDuXu7k5ubm6k2Wwm4Ok4CjDLkjHMuMLyJIY2MwCDwUBeX18dO/J4e3vrcmrLPjqHFrBbLBZOiNls5sL3/ZPyWLEBH6AmIIDCFOWfnp5kuVwm7xTlND3ZN4YwgRGAACHU8/OzBEHgJuM5YeMsWI4hV7yIugTMmIAxkxDz+TxZRSHD7JInk4lMp1NpNBpOFKLX6zmjYyni/v7eBcxLAbMPbElmdltuetlFyucYDtXcqGyMqtWqy2ORKO7b6ABDZocVuWRJ5JHx0SqnX4Qh7Eh8t9t1KqfV3Bf2Tk7lICBnYSIOpWcBeHoMgWwDydXyYtHSZY7F86YOtN/vJyUJc34TTIbxGXPfQHOAvt9Wn72qbVry+PjoBMEi2IcJuEcAxJW69zwvDxh9LX21GqsoK723u48w6VpP5+yoJXvTa2XS0Z6IiatSq9Xk6upKLi4uXOeBLVYyVjZJqSibOG9YWBpT65dZ5b8Bpm/+uGzIcDpXNm3HBvuQK7o4Y2u4RR78tqdYSXU9bQaav5UaevkVNAJUzbax0m5DrQ6HI6di96njmkG73XZ5IvHp2k4DFTXdZJMiRwA0Wy1XLYDCbLvdOlCLQ907AZypOVkSvQ5A6hfDMsbYmJjGwSQHGUYKOFcgPsKodJm2ioKpW8qYzsMVC1Ex+zatCg8X2pWH40nS4yxfVq8nLfnz40PqrUf5dfZHfF0OJQZLUzRdHVl1S5dsH2abbXpDytqkjGXl8/NDao2m/Px9JqHaBwOTK0xN3rgiiqXj4L4cx2+aw5WMJjP1Y+BU9Re+U5QdDytx3ccqs+SNAk30o7paZu5UZE8GCNVPPYE5wCCgrHpaKZ7rKIBaFOXvAGCsDH018kAjUOPOk7olKMt9e0puk4rjd/1woCD/XD1jYqxj3ZhqyQqSHRfseqHahvNL/C1nZvD0qbYMOMVwq4L0lOFflz9sY135/PzcnRMpQbo2YwQza5UeRWAYRbuuDBuYECzXXrb7llvr4IU59Je6Lc5uVdW+M7PlDxawppXx244kloqSBqv5CtW4oZfstbQwfEjLp+ky5hmMrURLVd5opQymvtT7U1didGqOIIAR5IwJbKM/2G0AHM58qSkgZWdLtM2J30yEILA9dIDfLTlaSrQeJacuwtoXYuBDtoJjSnAnit/X2S/V2GMnhAUiZP8BOlSCX9soPW+be2j2ObaOM+fDsPSjU5rDf/zMjkNwc9TAAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;New file structure for one react app&quot;
+        title=&quot;&quot;
+        src=&quot;/blog/static/3d33f06edf11aaeaba9eb6c29069f87a/8d59f/one-react-app-files.png&quot;
+        srcset=&quot;/blog/static/3d33f06edf11aaeaba9eb6c29069f87a/8c620/one-react-app-files.png 148w,
+/blog/static/3d33f06edf11aaeaba9eb6c29069f87a/8d59f/one-react-app-files.png 194w&quot;
+        sizes=&quot;(max-width: 194px) 100vw, 194px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h2&gt;What I Learned&lt;/h2&gt;
+&lt;p&gt;When I realized I didn’t know what I didn’t know I also realized I would have saved many hours of frustration if I had a manager or mentor whom I could simply ask for direction. Personally, I like learning the “hard way”, because you never forget what you learned when you learn this way. But learning on your own, without people to guide you and focus your energy, takes too much time and to me is not worth the tradeoff.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Completing Free Code Camp]]></title><description><![CDATA[On December 19th, 2018 I completed the freeCodeCamp (FCC) curriculum to earn their  full stack certification. FCC estimates that this…]]></description><link>https://spencercorwin.com/3/completing-freecodecamp/</link><guid isPermaLink="false">https://spencercorwin.com/3/completing-freecodecamp/</guid><pubDate>Wed, 26 Dec 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;On December 19th, 2018 I completed the freeCodeCamp (FCC) curriculum to earn their  full stack certification. FCC estimates that this represents 1800 hours of coursework. The curriculum covers the full spectrum of web development basics and is a phenomenal way for new developers (like myself) to get into software development. In this post I’d like to briefly overview the curriculum, what I thought of it, and what I would have done differently.&lt;/p&gt;
+&lt;h2&gt;Curriculum Overview and Commentary&lt;/h2&gt;
+&lt;p&gt;The FCC curriculum covers six modules: Responsive web design, Javascript algorithms and data structures, front-end libraries, data visualization, APIs &amp;#x26; microservices, information security &amp;#x26; quality assurance. The structure of each module is to go through many small exercises to introduce concepts and practice implementing basic code. Each module then ends with five projects that challenge you to implement the concepts you had just practiced into real-world, working projects. As any good student will recognize, these projects are where you will learn the most as you struggle to make your ideas work without structured guidance. To me this part is vital to the learning process and is part of what makes FCC so valuable.&lt;/p&gt;
+&lt;p&gt;The curriculum starts with responsive web design, which includes the full range of HTML and CSS, CSS flexbox, CSS grid, and responsive web design principles. When I got started with FCC I had very little idea of where to start, but I at least knew that I wanted to build cool, functional things, not just static websites (although that’s cool too). So when FCC started with basic HTML and CSS I was slightly flustered and impatient. I especially struggled with translating lines of text into spatial-visual components. So if you’re struggling with this aspect of software development, you are not alone.&lt;/p&gt;
+&lt;p&gt;The second module is Javascript algorithms and data structures, which includes basic JS, ES6, regular expressions, debugging, data structures, algorithms, object oriented programming, and functional programming. This section includes 21 intermediate level algorithm challenges, which I really enjoyed doing and gave me confidence to keep pushing forward. The final projects were similar to the intermediate challenges in this section and were equally challenging and fun.&lt;/p&gt;
+&lt;p&gt;Then front end libraries, which includes Boostrap, jQuery, Sass, ReactJS, and Redux. With this section you get a taste of the more exotic tools of web development. It makes you feel much cooler and more capable with your web development skills. When doing the projects for this section I focused almost entirely on React when building the projects. I did this because many people I talked to recommended I focus on learning React since it is a popular new framework for front-end development. You can see in the Google Trends chart below that React has exploded in popularity in the past few years, passing jQuery in interest. It has been a joy to work with so far, although I can’t compare it to much else since I lack extensive personal experience at this point.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/40bf11ebcf150158fc9f2d6f7cae35bc/55a75/react-vs-jquery.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 26.14035087719298%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAFCAYAAABFA8wzAAAACXBIWXMAAAsSAAALEgHS3X78AAAA1UlEQVQY04WQy07EMAxF+/9/wpbvYMsGiUFCIDTT6Stt0zzsHJx2xAg2RDry4zqO46aUwn9ABbZcyHqP6/lb29zSqFb0EMzqjaqFrHxMwqkX3kfh0wnnRVii6UXvzY3GhcKUj4TWZr/et6kEzmvZ7V5j1D6r3bn4wpeHzkW2a4c4R/P4knh4GvbSnDIlRtRIITIvgXYKe67EDQmHTyUZwbO1V3zb0V9G1pBp6lden99AEmn16Dyjy8wyzLjeIdOIuok0DmTzi2licex7sk2U/FoX+bPPbwa5hwHhjyZVAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;React versus jQuery&quot;
+        title=&quot;&quot;
+        src=&quot;/blog/static/40bf11ebcf150158fc9f2d6f7cae35bc/fb8a0/react-vs-jquery.png&quot;
+        srcset=&quot;/blog/static/40bf11ebcf150158fc9f2d6f7cae35bc/1a291/react-vs-jquery.png 148w,
+/blog/static/40bf11ebcf150158fc9f2d6f7cae35bc/2bc4a/react-vs-jquery.png 295w,
+/blog/static/40bf11ebcf150158fc9f2d6f7cae35bc/fb8a0/react-vs-jquery.png 590w,
+/blog/static/40bf11ebcf150158fc9f2d6f7cae35bc/526de/react-vs-jquery.png 885w,
+/blog/static/40bf11ebcf150158fc9f2d6f7cae35bc/55a75/react-vs-jquery.png 1140w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+Red represents interest in React and blue represents interest in jQuery&lt;/p&gt;
+&lt;p&gt;Then data visualization, which focuses on D3JS, JSON, APIs and AJAX requests. This section is a great introduction to retrieving data from APIs using ajax requests. At first I couldn’t see myself ever using D3 for data visualization after FCC. It didn’t help that the documentation for D3 is not very strong. But after completing this section I am glad I know some basic data visualization techniques and the general structure of SVGs. I can easily see myself using D3 or other data visualization libraries in the near future to create cool data visualizations.&lt;/p&gt;
+&lt;p&gt;Then APIs and microservices, which includes the Node Package Manager, basic NodeJS, basic ExpressJS, MongoDB, and Mongoose. This section, and the next, really tied it all together for me. Up until this point I felt I had a gaping whole in my understanding of how web applications, and the web in general, worked. By learning to setup a basic server, a basic database, and API endpoints, I could finally see the whole picture of how modern web applications work.&lt;/p&gt;
+&lt;p&gt;Finally, information security and quality assurance, which includes HelmetJS, basic web security, hashing with bcrypt, unit and functional testing with Chai and Mocha, and advanced NodeJS, ExpressJS, MongoDB, and Mongoose. Finishing this section and its associated projects was the most fulfilling of all the modules because it brought together a lot of the FCC curriculum into several challenging web application projects that closely resemble real-world applications. For example, the last project, and for me the hardest, was to build an anonymous message board, similar to Reddit. Just a few weeks ago I would have been discouraged thinking about how to go about building a Reddit-like application, or even anything approaching the seemingly large complexity of something like Reddit. I can’t be too hard on my past self because I had no database experience at that point. But now I can at least approach the mental challenges of thinking “well, how would I go about building this project I have in-mind?“.&lt;/p&gt;
+&lt;p&gt;FCC estimates all of this to represent 1800 hours of coursework. I did not keep track of how many hours I worked on each section or on the entire ceritication, but I doubt it took 1800 hours. I started FCC at the end of July and finished by mid-December. Even if I had worked 10 hours per day for approximately 144 days it would total 1,440 hours. But I certainly did not work 10 hours per day for 144 days. In the case of the first few certifications I was working a demanding full-time job while completing these certifications, so my time spent on FCC was spread out over many weeks with only a few hours or less per day. After I quit my job I was focused almost entirely on FCC and coding, which shows in my completion timeline. I got the first certification on Sept 30 (63 days), then the second on Oct 16 (16 days), the third on Nov 24 (37 days), the fourth on Dec 4 (34 days), the fifth on Dec 10 (7 days), and the last on Dec 19 (10 days). That’s a total of 144 days. In the first 75 days or so I was working full-time as a banker, with only a few hours each day to work on FCC. After mid-Oct I was almost working full-time on FCC for about 70 days. If I was working about 3 hours a day, on average, for 75 days, then for about 7 hours per day, on average, for 70 days, I would estimate I spent 715 hours total to complete FCC. The work got easier over time as I learned and retained more, which I suspect happens to anyone working through FCC and anyone learning a new skill.&lt;/p&gt;
+&lt;h2&gt;What I Would Have Done Differently&lt;/h2&gt;
+&lt;p&gt;If I could go back to the beginning and do it all again I would have focused like a laser on FCC and nothing else. I got distracted with side projects while completing the curriculum. It was not at all bad for me to take time away from FCC to work on side projects. In fact, I learned a lot from doing mini, self-assigned work in-between FCC modules. But it was not as efficient as if I had focused on FCC all the way through to the end. This was because I would finish a section in FCC, feel confident that I knew the material, then attempt something that was too far beyond my reach at that point. I would then struggle for an unnecessarily long amount of time before completing the project or putting it aside and then returning to FCC.&lt;/p&gt;
+&lt;p&gt;Now that FCC is completed I can look back and realize that the struggles and frustration I felt when doing those side projects were covered in later FCC material. I would have saved a lot of time and frustration by trusting FCC instead of looking for more challenges.&lt;/p&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Overall I would highly recommend that anyone looking to become a software developer get started with FCC and stick with it until the end. At that point you will have great confidence in your ability to code up a project on your own and in your ability to learn new skills and expand your capabilities. Now get coding!&lt;/p&gt;
+&lt;p&gt;You can find my FCC certifications &lt;a href=&quot;https://spencercorwin.com/fcc-certifications/index.html&quot;&gt;here&lt;/a&gt; or see my code for the associated FCC projects &lt;a href=&quot;https://github.com/spencercorwin/free-code-camp&quot;&gt;here&lt;/a&gt;. You can also return to the homepage of my personal website &lt;a href=&quot;https://spencercorwin.com&quot;&gt;here&lt;/a&gt; to see a list of links to the FCC projects.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[How to Remove All Distractions and Code Full-Time]]></title><description><![CDATA[I’m living the island life. Not the Hawaiian Island life. The Santa Catalina Island life. Catalina Island is an island off the coast of…]]></description><link>https://spencercorwin.com/2/island-life/</link><guid isPermaLink="false">https://spencercorwin.com/2/island-life/</guid><pubDate>Mon, 26 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I’m living the island life. Not the Hawaiian Island life. The Santa Catalina Island life. Catalina Island is an island off the coast of southern California. It is about 22 miles long and 8 miles wide at its widest point. It has only one official city, Avalon, with a population of about 3,500. Avalon is a somewhat popular spot for mainlanders to go on a weekend get-away. Otherwise there’s not much else on the island. The only other population center on the island to speak of is Two Harbors, with an approximate population of about 150 people.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/052f02604e19e26ef0ae5881c23f3287/01800/two-harbors.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAQP/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/9oADAMBAAIQAxAAAAFvVOaNAlhX/8QAGhAAAQUBAAAAAAAAAAAAAAAAAAECEBESIv/aAAgBAQABBQKmHKFxlxhT/8QAFhEBAQEAAAAAAAAAAAAAAAAAABIB/9oACAEDAQE/AYTr/8QAFxEBAAMAAAAAAAAAAAAAAAAAAAESE//aAAgBAgEBPwHReH//xAAYEAACAwAAAAAAAAAAAAAAAAAAMQEQIf/aAAgBAQAGPwIyR2z/xAAaEAADAAMBAAAAAAAAAAAAAAAAAREhMUFh/9oACAEBAAE/IfUXAJFbWJR8Cux//9oADAMBAAIAAwAAABDX7//EABYRAAMAAAAAAAAAAAAAAAAAABARQf/aAAgBAwEBPxBoL//EABYRAAMAAAAAAAAAAAAAAAAAABARQf/aAAgBAgEBPxBKL//EABwQAQACAgMBAAAAAAAAAAAAAAEAESGRQWFxgf/aAAgBAQABPxBbNNxYgdXG7B3CkXwlxUCnNVFCovtT/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;The tiny island town&quot;
+        title=&quot;&quot;
+        src=&quot;/blog/static/052f02604e19e26ef0ae5881c23f3287/f8fb9/two-harbors.jpeg&quot;
+        srcset=&quot;/blog/static/052f02604e19e26ef0ae5881c23f3287/e8976/two-harbors.jpeg 148w,
+/blog/static/052f02604e19e26ef0ae5881c23f3287/63df2/two-harbors.jpeg 295w,
+/blog/static/052f02604e19e26ef0ae5881c23f3287/f8fb9/two-harbors.jpeg 590w,
+/blog/static/052f02604e19e26ef0ae5881c23f3287/85e3d/two-harbors.jpeg 885w,
+/blog/static/052f02604e19e26ef0ae5881c23f3287/d1924/two-harbors.jpeg 1180w,
+/blog/static/052f02604e19e26ef0ae5881c23f3287/9452e/two-harbors.jpeg 1770w,
+/blog/static/052f02604e19e26ef0ae5881c23f3287/01800/two-harbors.jpeg 4032w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Two Harbors, that small town in the distance, is where I currently live and study. In a previous post I described &lt;a href=&quot;https://spencercorwin.com/blog/how-i-quit-my-job/how-i-quit-my-job/&quot;&gt;how I quit my job as a banker to learn to code&lt;/a&gt;. Obviously many people won’t have the option of quitting their job to code full-time, but if you can then it’s a huge advantage. One of the biggest, most overlooked advantages, is the ability to focus on a single thing. It’s actually not all that hard to come home after work and start coding, assuming you have the right mindset and you don’t have other responsibilities like a spouse, kids, or even pets. But even in that ideal scenario you have to split your energy and focus on your day job and your coding. Inevitably thoughts from your day job bleed into your afterwork thoughts of coding. You’re sitting there trying to do nothing but focus on code and all of a sudden you’re thinking about the way your boss said something to a co-worker. It’s just not possible to make a distinct cutoff between work and code after 5PM. Not to mention all the other distractions that come at you: you need to get gas, pay the bills, get groceries, settle an issue with your roommates, get some exercise, see your friends, call you parents, and on and on. This obviously was my reality until recently. The way I solved this problem was to literally move to a remote island.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/78aeaf81e2b6dd7eaf73fdb65e56eb11/01800/incredible.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQAD/8QAFAEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABUzGkSiJP/8QAGhAAAgMBAQAAAAAAAAAAAAAAAQIAAyEREv/aAAgBAQABBQIEcaZEudC1u+5//8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQMBAT8Bh//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAECAQE/Aaf/xAAYEAACAwAAAAAAAAAAAAAAAAAQMQABUf/aAAgBAQAGPwJhzaP/xAAbEAADAAIDAAAAAAAAAAAAAAAAAREhMUFRYf/aAAgBAQABPyHVBU3tD8Bbs5ey9J4LP//aAAwDAQACAAMAAAAQ29//xAAWEQADAAAAAAAAAAAAAAAAAAABEBH/2gAIAQMBAT8QML//xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQH/2gAIAQIBAT8Qylf/xAAcEAEAAgIDAQAAAAAAAAAAAAABABEhMVFxgcH/2gAIAQEAAT8QYEWy6uLFD0gD9Ji0MDSO+YjKU4XcWbtn/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Incredible view&quot;
+        title=&quot;&quot;
+        src=&quot;/blog/static/78aeaf81e2b6dd7eaf73fdb65e56eb11/f8fb9/incredible.jpeg&quot;
+        srcset=&quot;/blog/static/78aeaf81e2b6dd7eaf73fdb65e56eb11/e8976/incredible.jpeg 148w,
+/blog/static/78aeaf81e2b6dd7eaf73fdb65e56eb11/63df2/incredible.jpeg 295w,
+/blog/static/78aeaf81e2b6dd7eaf73fdb65e56eb11/f8fb9/incredible.jpeg 590w,
+/blog/static/78aeaf81e2b6dd7eaf73fdb65e56eb11/85e3d/incredible.jpeg 885w,
+/blog/static/78aeaf81e2b6dd7eaf73fdb65e56eb11/d1924/incredible.jpeg 1180w,
+/blog/static/78aeaf81e2b6dd7eaf73fdb65e56eb11/9452e/incredible.jpeg 1770w,
+/blog/static/78aeaf81e2b6dd7eaf73fdb65e56eb11/01800/incredible.jpeg 4032w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Frankly I like the quiet isolation of the island. There is so much less to worry about, leaving so much more time for coding, reading, and writing. Not to mention I’m on an island which is quite beautiful, as you can tell by the photos.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/869c63875a212649134a5c6effdc4c92/01800/balcony-view.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAf/EABQBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAdU6VKCAT//EABkQAQADAQEAAAAAAAAAAAAAAAEAAhESA//aAAgBAQABBQLkhbzwaZZWW5jo/wD/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEhP/2gAIAQMBAT8BzQ//xAAWEQADAAAAAAAAAAAAAAAAAAAAARP/2gAIAQIBAT8BqyjP/8QAGhAAAgIDAAAAAAAAAAAAAAAAAAERITEyUf/aAAgBAQAGPwJzRMmSyuGzR//EABwQAAEEAwEAAAAAAAAAAAAAAAEAESExQWFxUf/aAAgBAQABPyGQKPUVQ1lHuh0J3LIksEFt1ImnIv/aAAwDAQACAAMAAAAQKO//xAAXEQEBAQEAAAAAAAAAAAAAAAABABEh/9oACAEDAQE/EEPbN//EABYRAQEBAAAAAAAAAAAAAAAAAAEQEf/aAAgBAgEBPxAAyX//xAAdEAEAAwACAwEAAAAAAAAAAAABABEhMYFBYbHB/9oACAEBAAE/EK9E0eF1zUZrNqxrqArLeFGaBoT4F+xCiYGNNfcfAfb9n//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;View from the balcony&quot;
+        title=&quot;&quot;
+        src=&quot;/blog/static/869c63875a212649134a5c6effdc4c92/f8fb9/balcony-view.jpeg&quot;
+        srcset=&quot;/blog/static/869c63875a212649134a5c6effdc4c92/e8976/balcony-view.jpeg 148w,
+/blog/static/869c63875a212649134a5c6effdc4c92/63df2/balcony-view.jpeg 295w,
+/blog/static/869c63875a212649134a5c6effdc4c92/f8fb9/balcony-view.jpeg 590w,
+/blog/static/869c63875a212649134a5c6effdc4c92/85e3d/balcony-view.jpeg 885w,
+/blog/static/869c63875a212649134a5c6effdc4c92/d1924/balcony-view.jpeg 1180w,
+/blog/static/869c63875a212649134a5c6effdc4c92/9452e/balcony-view.jpeg 1770w,
+/blog/static/869c63875a212649134a5c6effdc4c92/01800/balcony-view.jpeg 4032w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/0579fa08263b64777f07bc883dcb55a4/01800/clear-water.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQBAgP/xAAUAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHakqIyKA//xAAYEAEBAQEBAAAAAAAAAAAAAAAAEwESMv/aAAgBAQABBQKqrpLG+qP/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEgH/2gAIAQMBAT8BjUv/xAAWEQADAAAAAAAAAAAAAAAAAAAAARL/2gAIAQIBAT8BtMo//8QAGRAAAgMBAAAAAAAAAAAAAAAAAAEQETFB/9oACAEBAAY/AjY1lLkf/8QAGhABAAIDAQAAAAAAAAAAAAAAAQARMUFxgf/aAAgBAQABPyFpuNtp0xryMLc6MlnQ+T//2gAMAwEAAgADAAAAEBvP/8QAFxEAAwEAAAAAAAAAAAAAAAAAABFBUf/aAAgBAwEBPxBNG0//xAAWEQEBAQAAAAAAAAAAAAAAAAAAURH/2gAIAQIBAT8QkYj/xAAbEAEAAwADAQAAAAAAAAAAAAABABEhMUFxgf/aAAgBAQABPxAOc298I34+MusjdCmEQEwCvmwIBm7XP//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Clear water&quot;
+        title=&quot;&quot;
+        src=&quot;/blog/static/0579fa08263b64777f07bc883dcb55a4/f8fb9/clear-water.jpeg&quot;
+        srcset=&quot;/blog/static/0579fa08263b64777f07bc883dcb55a4/e8976/clear-water.jpeg 148w,
+/blog/static/0579fa08263b64777f07bc883dcb55a4/63df2/clear-water.jpeg 295w,
+/blog/static/0579fa08263b64777f07bc883dcb55a4/f8fb9/clear-water.jpeg 590w,
+/blog/static/0579fa08263b64777f07bc883dcb55a4/85e3d/clear-water.jpeg 885w,
+/blog/static/0579fa08263b64777f07bc883dcb55a4/d1924/clear-water.jpeg 1180w,
+/blog/static/0579fa08263b64777f07bc883dcb55a4/9452e/clear-water.jpeg 1770w,
+/blog/static/0579fa08263b64777f07bc883dcb55a4/01800/clear-water.jpeg 4032w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;There are always distractions, no matter where you are or what you’re doing. But an effective strategy for combating these distractions is to simply get rid of them or make them more difficult for you to access. For example, if you live in New York City with all your best friends it’s going be very difficult to choose to sit in a room quietly by yourself learning to code over going out with your friends. But if you’re a bit further away, physically, from your friends and fun times, then it becomes just a bit easier to decide between distraction and coding. You can take that attitude as far as you can by simply removing certain activities from your life that are unnecessary, even if it’s temporary. For example, maybe you think you watch too much television. You could simply unplug the TV and move it into the garage. You can still watch TV whenever you want to, but you’ve made it a bit more difficult for yourself. If you wanted to watch TV it’s no longer a single step of turning it on, but at least a three step process of lugging it out of the garage, setting it up, and then turning it on. This is a simplified example but this kind of thinking is a very effective way of getting back more time and energy to focus on your coding.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/783d7ee43475d0457d53a6dcb1572b16/01800/trail.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUBAgT/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB3StvDIUi/wD/xAAYEAADAQEAAAAAAAAAAAAAAAAAAQIREv/aAAgBAQABBQJUjqDuRSZJh//EABURAQEAAAAAAAAAAAAAAAAAAAAS/9oACAEDAQE/AYQ//8QAFREBAQAAAAAAAAAAAAAAAAAAABL/2gAIAQIBAT8Btb//xAAXEAEBAQEAAAAAAAAAAAAAAAAAMRAy/9oACAEBAAY/AqrpUz//xAAcEAEAAgEFAAAAAAAAAAAAAAABACGREEFRYYH/2gAIAQEAAT8hFszHgns62Y5bbQIGf//aAAwDAQACAAMAAAAQz+//xAAYEQADAQEAAAAAAAAAAAAAAAAAAREhUf/aAAgBAwEBPxBNNK6f/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERIVH/2gAIAQIBAT8Qa3ERw//EABoQAQADAAMAAAAAAAAAAAAAAAEAEVExQXH/2gAIAQEAAT8QRON2BN+svCsudC8x1IXWJAKMGf/Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Trail&quot;
+        title=&quot;&quot;
+        src=&quot;/blog/static/783d7ee43475d0457d53a6dcb1572b16/f8fb9/trail.jpeg&quot;
+        srcset=&quot;/blog/static/783d7ee43475d0457d53a6dcb1572b16/e8976/trail.jpeg 148w,
+/blog/static/783d7ee43475d0457d53a6dcb1572b16/63df2/trail.jpeg 295w,
+/blog/static/783d7ee43475d0457d53a6dcb1572b16/f8fb9/trail.jpeg 590w,
+/blog/static/783d7ee43475d0457d53a6dcb1572b16/85e3d/trail.jpeg 885w,
+/blog/static/783d7ee43475d0457d53a6dcb1572b16/d1924/trail.jpeg 1180w,
+/blog/static/783d7ee43475d0457d53a6dcb1572b16/9452e/trail.jpeg 1770w,
+/blog/static/783d7ee43475d0457d53a6dcb1572b16/01800/trail.jpeg 4032w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;I’ve practiced this all throughout my life and it has given me a huge advantage over my own inclinations to procrastinate. And the good news is that this attitude and focus on what you should be doing gets easier over time as you practice it. Today I’m on an island that I can get off of any day I want. I just have to get on a boat for 90 minutes and accept some sea sickness to get to the mainland and the world of endless distraction. It would be so much easier and more fulfilling though to stay on the island and code. Which is what I plan on doing until I accomplish my goal of becoming a professional software developer. For me, the only real way off the island is success.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/b16df16a7561d6c0a07deef173d025a8/6e193/panorama.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 22.15166687019172%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAEABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMC/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgED/9oADAMBAAIQAxAAAAHFA2A0H//EABgQAAMBAQAAAAAAAAAAAAAAAAECAxET/9oACAEBAAEFAjVw0706tZt//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8Bp//EABkQAAMAAwAAAAAAAAAAAAAAAAABESExkf/aAAgBAQAGPwLDJajS4f/EABcQAQEBAQAAAAAAAAAAAAAAAAEAESH/2gAIAQEAAT8hwGMILYPEnNZf/9oADAMBAAIAAwAAABCL7//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAEDAQE/EEAn/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARIf/aAAgBAgEBPxAS9bb/xAAZEAEBAQEBAQAAAAAAAAAAAAABEQAhYXH/2gAIAQEAAT8QpafA7hyBEXIMmrw/G//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Panorama&quot;
+        title=&quot;&quot;
+        src=&quot;/blog/static/b16df16a7561d6c0a07deef173d025a8/f8fb9/panorama.jpeg&quot;
+        srcset=&quot;/blog/static/b16df16a7561d6c0a07deef173d025a8/e8976/panorama.jpeg 148w,
+/blog/static/b16df16a7561d6c0a07deef173d025a8/63df2/panorama.jpeg 295w,
+/blog/static/b16df16a7561d6c0a07deef173d025a8/f8fb9/panorama.jpeg 590w,
+/blog/static/b16df16a7561d6c0a07deef173d025a8/85e3d/panorama.jpeg 885w,
+/blog/static/b16df16a7561d6c0a07deef173d025a8/d1924/panorama.jpeg 1180w,
+/blog/static/b16df16a7561d6c0a07deef173d025a8/9452e/panorama.jpeg 1770w,
+/blog/static/b16df16a7561d6c0a07deef173d025a8/6e193/panorama.jpeg 16378w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[How I Decided to Quit My Job as a Banker and Learn to Code]]></title><description><![CDATA[In 2014 I graduated from Whitman College with a degree in economics and was off into the real world. Like many graduates, I didn’t know…]]></description><link>https://spencercorwin.com/1/how-i-quit-my-job/</link><guid isPermaLink="false">https://spencercorwin.com/1/how-i-quit-my-job/</guid><pubDate>Mon, 12 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;In 2014 I graduated from Whitman College with a degree in economics and was off into the real world. Like many graduates, I didn’t know exactly what to do, but I had confidence that if I just tackled things one day at a time then I’d figure it out eventually. Luckily I ran cross country and track all through high school and college so even at the age of 22 I was pretty good at setting goals and working diligently towards them. One goal that was always in-mind after graduation was to figure out what I wanted to do. I knew from observation and from talking to my peers and my parents that many people graduate undergrad college without having an ideal job they wanted, let alone a “passion” to pursue. So what would end-up happening to these folks is that they get a job that relates to their undergraduate major and would work in that industry for the rest of their lives, without having really conciously chosen it. I knew I didn’t want that for myself. I always followed the Steve Jobs ethos of “Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven’t found it yet, keep looking. Don’t settle. As with all matters of the heart, you’ll know when you find it”. So my primary goal upon graduating was to find out where to focus my time and energy. If I had to pick an industry or field to focus on for the rest of my life then I’d better chose carefully.&lt;/p&gt;
+&lt;p&gt;After graduation I worked a wide array of jobs in many different fields. I worked at a call center, worked at a running shoe store, drove for Uber, worked at a cleaning company, worked for a real estate developer, went door to door for a presidential campaign, worked at a commercial real estate mortgage broker, worked at a private equity firm, and most recently worked as a banker. That’s a count of nine jobs in four years. These jobs are almost entirely unrelated. Most people would look at my resume and think I was crazy, fickle, or afraid of commitment. To me this criticism doesn’t really matter. It makes total sense that any young person would go through at least 10 discrete jobs before finding the right path. What does matter is that with every job I obtained valuable skills in accounting, communication, business, sales, writing, reading, discipline, orgnization, prioritization, etc. I always knew that I could learn in any situation and that these sorts of skills would pay great dividends down the road. Thus, it was never a waste of time to work in career paths or jobs that I eventually would quit, as I’m sure many people would see this type of situation.&lt;/p&gt;
+&lt;p&gt;Well it was in late 2017 that I read How to Create a Mind by Ray Kurzweil and had my mind blown. In this book Kurzweil goes into the technical details of how the human brain works and how software can be used to create artificial intelligence. Reading this book made me realize the absolutely world-changing and still largely-untapped potential for software. It was right then that I decided I had to learn how to code and commit myself 100% to this field.&lt;/p&gt;
+&lt;p&gt;In a nutshell that’s how I came to decide to learn to code. To me, finding out what you want to do is the hard part. The easy part is doing it. So at this point in late 2017 I’ve made a decision. Now how to get to my goal of being a professional software developer? Without doing too much research I jumped in. I started with Free Code Camp, learning HTML and CSS. Well I got bored of that rather quick. So I saught out something harder and more computer-science-ie. I started learning Python with a great book called Automate the Boring Stuff by Zeiwag. I fell in love. It’s a great book to learn to code that I highly recommend for beginners. I committed myself to learning to code on nights and weekends outside of my day job as a banker, so it was great to have a book to guide me and give me projects to work on. But eventually I finished the book and completed all the projects. At that point I hit a major wall. My workload at the bank was ramping up and I didn’t know how to progress further, especially with limited time and energy after work. As many beginners realize, once you finish the basic guided tutorials the only way to progress further is to build your own projects. Well that takes a lot of energy, especially as a beginner. And I didn’t have enough hours in the day to do well at my day-job and to keep learning to code. So for a few months I stalled. I didn’t know how I was going to reach my goal of becoming a professional developer. So I tried to find an intermediate step from where I was to where I wanted to be. I did all sorts of research on jobs at tech companies that I would quality for. Jobs like product manager or financial analyst. I figured it would be much easier to prove myself in a tech company with my existing skill-set and then make a lateral move into software development within that same company. I was working on that idea for several months when I talked to a friend of a friend who was looking for newer software developers who were willing to get paid below-market rates. Boom! That’s me. I was all in for this and I saw my opening. I sold myself to this guy and asked what I needed to learn to get the position. He told me to focus on JavaScript and ReactJS, and that we could have an interview in a few weeks. This jolted me into action. I immediately started JavaScript and ReactJS tutorials on Codecademy. I finished them all, even the premium content. I didn’t think I was ready for an interview but I figured I could sell myself on my discipline, tenacity, and work ethic. I may not have known JavaScript and ReactJS all that well but I would in a matter of time. I could guarantee that. Well for various reasons that interview never came. But I had newfound hope. One of my problems when I started was that I didn’t know what kind of development I wanted to do. What would be appropriate for a beginner like me to aim for? Should I keep learning Python? What was the most realistic path from beginner to professional? I talked to friends who were developers, friends who were data scientists, friends who were product managers and tech entrepreneurs, and even tech recruiters. While they all gave me valuable information, none of them could really say definitively how I could accomplish my goal of becoming a professional software developer. I finally came back around to Free Code Camp. I was listening to a Free Code Camp podcast with Quincy Larson when he explained why Free Code Camp focused on JavaScript and web development. I was already starting to think that web development was the best way for beginning developers to get started. So when Quincy eloquently and confidently explained that Free Code Camp focused on web development because web developers are in high demand and JavaScript keeps growing in popularity and usability I was sold. I also realized on a practical level that with web development I could build my own cool websites and web apps that would be easy to host and for other people to actually use. I could never quite see how I could use Python to build anything other than small scripts that would be difficult to share. So my motivation to learn HTML, CSS, and JavaScript was really high. I still had a large workload at my day job as a banker. I didn’t want to sacrifice the quality of my work at my day-job, so I frequently stayed late at work and put a lot of energy into making sure I did a good job. I did well enough to get promoted into a sales position with even more responsibility, even as I had my eye on the door. This was a great confidence boost to me, but it meant even less time and energy could be used to code. So I needed to find an alternate route. I just didn’t have the time to build the projects I knew would get me to my goal. It’s at this point that I realize I’ve saved a decent amount of cash and that my brother was living on nearby Catalina Island. After doing the math and putting a lot of thought into it, I decided to quit my job, move-in with my brother on a remote island, live super cheap, live off my savings, and code full-time.&lt;/p&gt;
+&lt;p&gt;So here I am. I currently live in a small town on a small island with nothing to do but code. I’ve completed the Free Code Camp Resposive Web Design certification, Javascript Algorithms and Data Structures certification, the Front End Libraries certification, and soon I will complete the rest of the Free Code Camp curriculum. I’ve also completed dozens of CodeWars challenges in Python and JavaScript, I’ve at least begun a few exciting side-projects. And I’m overall extremely happy with my decision to quit my job as a banker and learn to code. Stay tuned for more advice and hopefully more technical posts on this blog.&lt;/p&gt;
+&lt;p&gt;Feel free to reach out to me or to checkout my work at my &lt;a href=&quot;https://spencercorwin.com&quot;&gt;personal website&lt;/a&gt;. I look forward to connecting with you. Code on!&lt;/p&gt;</content:encoded></item></channel></rss>
