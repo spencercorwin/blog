@@ -27,7 +27,7 @@ class Bio extends React.Component {
           }}
         />
         <p>
-          Written by <strong>Spencer Corwin</strong> who lives on Catalina Island building useful things.{' '}
+          Written by <strong>Spencer Corwin</strong>.
         </p>
       </div>
     )
