@@ -27,7 +27,7 @@ class Bio extends React.Component {
           }}
         />
         <p>
-          Written by <strong>Spencer Corwin</strong>.
+          Written by <strong>Spencer Corwin</strong>, web developer for hire.
         </p>
       </div>
     )
